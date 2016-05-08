@@ -6,4 +6,4 @@ test
 Creating a new branch is quick.
 My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
-new test
+new test,修复bu
